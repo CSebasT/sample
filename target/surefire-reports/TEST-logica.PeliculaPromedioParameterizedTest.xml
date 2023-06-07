@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="3" failures="0" name="logica.PeliculaPromedioParameterizedTest" time="0.078" errors="0" skipped="0">
+<testsuite tests="3" failures="0" name="logica.PeliculaPromedioParameterizedTest" time="0.087" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2023.1.2"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
@@ -65,7 +65,7 @@
     <property name="sun.stdout.encoding" value="UTF-8"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="logica.PeliculaPromedioParameterizedTest" name="given_genre_when_points_average_then_ok[0]" time="0"/>
-  <testcase classname="logica.PeliculaPromedioParameterizedTest" name="given_genre_when_points_average_then_ok[1]" time="0.009"/>
-  <testcase classname="logica.PeliculaPromedioParameterizedTest" name="given_genre_when_points_average_then_ok[2]" time="0.069"/>
+  <testcase classname="logica.PeliculaPromedioParameterizedTest" name="given_genre_when_points_average_then_ok[0]" time="0.03"/>
+  <testcase classname="logica.PeliculaPromedioParameterizedTest" name="given_genre_when_points_average_then_ok[1]" time="0.023"/>
+  <testcase classname="logica.PeliculaPromedioParameterizedTest" name="given_genre_when_points_average_then_ok[2]" time="0.034"/>
 </testsuite>
