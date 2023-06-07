@@ -7,6 +7,7 @@ import static org.junit.Assert.*;
 
 public class VerificacionCedulaTest {
 
+
     private GestorCliente gestorCliente = null;
 
     @Before
