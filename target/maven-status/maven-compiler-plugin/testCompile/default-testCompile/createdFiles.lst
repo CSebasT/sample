@@ -1,0 +1,8 @@
+logica\IPaginaDePeliculasEnLineaTest.class
+logica\PeliculaTest.class
+logica\AlquilerTest.class
+logica\PeliculaConteoParameterizedTest.class
+logica\VerificacionCedulaTest.class
+logica\GestorPeliculaTest.class
+logica\ClientePuntosTest.class
+logica\PeliculaPromedioParameterizedTest.class
